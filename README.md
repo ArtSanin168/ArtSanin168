@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/f232d928-9aed-4200-adbd-9735d015448c)
+![github-header-image](https://github.com/user-attachments/assets/605a7aa6-50c4-4092-904d-1464f726954f)
 <h1 align="center">Hi 👋, I'm Art Sanin</h1>
 <h3 align="center">A Newbie Frontend Developer</h3>
 
